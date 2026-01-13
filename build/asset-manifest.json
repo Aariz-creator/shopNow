@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shopnow1/static/css/main.b141e7a9.css",
+    "main.js": "/shopnow1/static/js/main.3e8a9e4d.js",
+    "index.html": "/shopnow1/index.html",
+    "main.b141e7a9.css.map": "/shopnow1/static/css/main.b141e7a9.css.map",
+    "main.3e8a9e4d.js.map": "/shopnow1/static/js/main.3e8a9e4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b141e7a9.css",
+    "static/js/main.3e8a9e4d.js"
+  ]
+}
